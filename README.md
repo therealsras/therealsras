@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Chhin Sras 👋 | 🇰🇭</h1>
 
 <p align="center"> 
- <a href="https://github.com/chhinsras" alt="sras's github">
+ <a href="https://github.com/therealsras" alt="sras's github">
    <img src="https://img.shields.io/badge/-@chhinsras-%23181717?style=flat-square&logo=github" />
  </a>
  <a href="https://www.linkedin.com/in/chhin-sras-3924b5119" alt="sras's linkedin">
@@ -28,8 +28,8 @@
 
 I am happy to find the avaiable time to contribute the the open source projects that helps me to expand my knowledge and work with other developers and team globally.
 
-- 🛒 [MiniStarter](https://github.com/chhinsras/ministarter): MiniStarter is simple solution template which is best for small medium size application. This is good for starter, built with simplification in mind. The project is built with Asp.Net Core Web API and Angular / Flutter for the front end.
-- 🛒 [Blazor Hero](https://github.com/blazorhero/blazorhero): BlazorHero is a Clean Architecture Solution Template for Blazor Webassembly 5.0 built with MudBlazor Components.
+- 🛒 [MiniStarter](https://github.com/therealsras/ministarter): MiniStarter is simple solution template which is best for small medium size application. This is good for starter, built with simplification in mind. The project is built with Asp.Net Core Web API and Angular / Flutter for the front end.
+- 🛒 [Blazor Hero](https://github.com/fullstackhero/blazor-starter-kit): BlazorHero is a Clean Architecture Solution Template for Blazor Webassembly 5.0 built with MudBlazor Components.
 - 🛒 [FluentPOS](https://github.com/chhinsras/fluentpos): [Archived Project] Open Source Point Of Sales / Inventory Management Solution
 Built with ASP.NET Core 5.0 WebAPI & Angular 13 Material UI.
 
