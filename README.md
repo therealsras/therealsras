@@ -22,7 +22,7 @@
 </p>
 
 
-> I’m a full stack developer specializing in building Web Applications. I'm working on Angular and Flutter for the front end and Asp.Net Core for the backend.
+> I’m a full stack developer specializing in building Web Applications. I'm working on Angular and NectJS for the front end and Asp.Net Core for the backend.
 
 #### 💻 Open Source Contributions
 
