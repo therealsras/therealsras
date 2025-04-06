@@ -22,13 +22,13 @@
 </p>
 
 
-> I’m a full stack developer specializing in building Web Applications. I'm working on Angular and NectJS for the front end and Asp.Net Core for the backend.
+> I’m a full-stack developer specializing in building Web Applications. I'm working on Angular and NextJS for the front end and ASP.NET Core for the backend.
 
 #### 💻 Open Source Contributions
 
-I am happy to find the avaiable time to contribute the the open source projects that helps me to expand my knowledge and work with other developers and team globally.
+I am happy to find the available time to contribute to the open source projects that help me to expand my knowledge and work with other developers and teams globally.
 
-- 🛒 [MiniStarter](https://github.com/therealsras/ministarter): MiniStarter is simple solution template which is best for small medium size application. This is good for starter, built with simplification in mind. The project is built with Asp.Net Core Web API and Angular / Flutter for the front end.
+- 🛒 [MiniStarter](https://github.com/therealsras/ministarter): MiniStarter is simple solution template which is best for small medium size application. This is good for a starter, built with simplification in mind. The project is built with ASP.NET Core Web API and Angular / Flutter for the front end.
 - 🛒 [Blazor Hero](https://github.com/fullstackhero/blazor-starter-kit): BlazorHero is a Clean Architecture Solution Template for Blazor Webassembly 5.0 built with MudBlazor Components.
 - 🛒 [FluentPOS](https://github.com/chhinsras/fluentpos): [Archived Project] Open Source Point Of Sales / Inventory Management Solution
 Built with ASP.NET Core 5.0 WebAPI & Angular 13 Material UI.
